@@ -3,6 +3,10 @@
 👉Auto Insta Account Create
 https://youtu.be/LYMv2CXhGJY
 
+replace 14 line with mail/tempt mail/phone number and it needed 10 sec for enter password you must enter within that or extact the seconds and afrer password click next button and remaining all process take automatically atlast enter the otp.
+
+Download The Latest Version Of Chrome Driver https://chromedriver.chromium.org/ & Extract The File And Place To These Folder open cmd and enter create.py or click on create.py or you can rename the file and run
+
 <p>This small piece of code will create an account automatically by randomizing names. You need Selenium library installed. This is an ongoing work. Beware that Instagram has security measures to prevent bot usage.
 
 Do not forget to change the 
