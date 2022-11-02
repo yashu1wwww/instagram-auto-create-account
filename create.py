@@ -37,7 +37,7 @@ time.sleep(1)
 input = browser.find_element_by_xpath('/html/body/div[1]/div/div/div/div[1]/div/div/div/div[1]/section/main/div/div/div[1]/div/div[6]/button').click()
 time.sleep(50)
 driver.close()
-
+#in last it ask otp enter the otp tehn account created......
 
 
 
