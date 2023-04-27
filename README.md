@@ -1,24 +1,27 @@
 ## Instagram Automatic Account Creator Bot
 
-👉𝐀𝐟𝐭𝐞𝐫 𝐓𝐰𝐨 𝐨𝐫 𝐦𝐨𝐫𝐞 𝐜𝐨𝐦𝐩𝐢𝐥𝐞 𝐨𝐟 𝐛𝐨𝐭𝐬 𝐖𝐚𝐭𝐜𝐡 𝐓𝐡𝐞𝐬𝐞 𝐕𝐢𝐝𝐞𝐨 𝐀𝐧𝐝 𝐂𝐨𝐧𝐧𝐞𝐜𝐭 𝐕𝐩𝐧 𝐚𝐧𝐝 𝐫𝐮𝐧
+👉 After Two or More Compilations of Bots Watch These Video and Connect VPN and Run
 
 https://youtu.be/c9MAJpax5R0
 
-👉Auto Insta Account Create
+👉 Auto Instagram Account Creation
 https://youtu.be/LYMv2CXhGJY
 
-replace 12 line with mail/tempt mail/phone number and it needed 11 sec for enter password you must enter within that or change  the seconds and 
-all process take automatically atlast enter the otp.
+To replace the 12th line with email/temp mail/phone number and to enter the password within 11 seconds or change the seconds, the entire process is automated. At last, enter the OTP.
 
-Download The Latest Version Of Chrome Driver https://chromedriver.chromium.org/ & Extract The File And Place To These Folder open cmd  on that particular folderand enter create.py or click on create.py or you can rename the file and run
+Download the latest version of the Chrome Driver from https://chromedriver.chromium.org/ & extract the file and place it in this folder. Open cmd in that particular folder and enter create.py or click on create.py, or you can rename the file and run it.
 
-<p>This small piece of code will create an account automatically by randomizing names. You need Selenium library installed. This is an ongoing work. Beware that Instagram has security measures to prevent bot usage.
+This small piece of code will automatically create an account by randomizing names. You need to have the Selenium library installed. Please note that Instagram has security measures in place to prevent bot usage.
 
-use proxy to hide instagram and more than 2 accounts use proxy otherwise insta will ban accounts....
-Do not forget to change the 
+Use a proxy to hide your Instagram account and if you are creating more than 2 accounts, use a proxy, otherwise, Instagram will ban your accounts.
 
-pip install -r requirements.txt
-or pip install accountInfoGenerator as account
+Don't forget to change the command
+
+"pip install -r requirements.txt" 
+
+or
+
+"pip install accountInfoGenerator as account".
 
 👉Note:-
 
