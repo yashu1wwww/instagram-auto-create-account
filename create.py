@@ -39,6 +39,7 @@ time.sleep(50)
 driver.close()
 #in last it ask otp enter the otp tehn account created......
 #use proxy to hide instagram and more than 2 accounts use proxy otherwise insta will ban accounts....
+#note down the username and password..
 
 
 
