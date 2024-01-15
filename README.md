@@ -4,21 +4,7 @@
 
 https://youtu.be/c9MAJpax5R0
 
-To replace the 12th line with email/temp mail/phone number and to enter the password within 11 seconds or change the seconds, the entire process is automated. At last, enter the OTP.
 
-Download the latest version of the Chrome Driver from https://chromedriver.chromium.org/ & extract the file and place it in this folder. Open cmd in that particular folder and enter create.py or click on create.py, or you can rename the file and run it.
-
-This small piece of code will automatically create an account by randomizing names. You need to have the Selenium library installed. Please note that Instagram has security measures in place to prevent bot usage.
-
-Use a proxy to hide your Instagram account and if you are creating more than 2 accounts, use a proxy, otherwise, Instagram will ban your accounts.
-
-Don't forget to change the command
-
-"pip install -r requirements.txt" 
-
-or
-
-"pip install accountInfoGenerator as account".
 
 👉Note:-
 
