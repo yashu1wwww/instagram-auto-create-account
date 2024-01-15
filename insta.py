@@ -17,27 +17,26 @@ driver.get("https://www.instagram.com/sem/campaign/emailsignup/?campaign_id=1353
 
 time.sleep(3)
 
-driver.find_element_by_name("emailOrPhone").send_keys("123email@gmail.com") #email or ph.no replace
+driver.find_element_by_name("emailOrPhone").send_keys("googlemyemail@gmail.com") #email or ph.no replace
 driver.find_element_by_name("fullName").send_keys("instaaa") #name 
-driver.find_element_by_name("username").send_keys("insta@_123")  #username 
-driver.find_element_by_name("password").send_keys("Insta123@#$%") #password 
+driver.find_element_by_name("username").send_keys("King_success")  #username 
+driver.find_element_by_name("password").send_keys("Install@123") #password 
 time.sleep(3)
 driver.find_element_by_xpath('/html/body/div[2]/div/div/div[2]/div/div/div[1]/section/main/div/div/div[1]/div[2]/form/div[8]/div/button').click()
 time.sleep(5)
 #Birthday verification
 dropdown_element = driver.find_element(By.CLASS_NAME, "_aau-")
 dropdown = Select(dropdown_element)
-dropdown.select_by_visible_text("March") #change to required
-time.sleep(2)
-dropdown_element = driver.find_element(By.CLASS_NAME, "_aau-")
-dropdown = Select(dropdown_element)
-dropdown.select_by_visible_text("March") #change to required
-time.sleep(2)
-dropdown_element = driver.find_element(By.CLASS_NAME, "_aau-")
-dropdown = Select(dropdown_element)
-dropdown.select_by_visible_text("1998") #change to required
+dropdown.select_by_visible_text("March") #select month
 time.sleep(1)
-driver.find_element_by_xpath('/html/body/div[2]/div/div/div[2]/div/div/div[1]/section/main/div/div/div[1]/div/div[6]/button').click()
+dropdown_element = driver.find_element(By.XPATH, "/html/body/div[2]/div/div/div[2]/div/div/div[1]/section/main/div/div/div[1]/div/div[4]/div/div/span/span[2]/select")
+dropdown = Select(dropdown_element)
+dropdown.select_by_visible_text("9") #select required date
+time.sleep(3)
+dropdown_element = driver.find_element(By.XPATH, "/html/body/div[2]/div/div/div[2]/div/div/div[1]/section/main/div/div/div[1]/div/div[4]/div/div/span/span[3]/select")
+dropdown = Select(dropdown_element)
+dropdown.select_by_visible_text("2000") #select year
+time.sleep(2)
+driver.find_element_by_xpath('/html/body/div[2]/div/div/div[2]/div/div/div[1]/section/main/div/div/div[1]/div/div[6]/button').click() #click on next button
 #Ask otp enter and click on next button thats it..(dont forgot to save the username and password)
 time.sleep(30)  
-
