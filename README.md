@@ -1,9 +1,5 @@
 ## Instagram Automatic Account Create Bot
 
-👉 After Two or More Compilations of Bots Watch These Video and Connect VPN and Run
-
-https://youtu.be/c9MAJpax5R0
-
 To start, download the latest version of Chrome Driver from https://chromedriver.chromium.org/, extract the file, and place it in the designated folder. Then, open the command prompt in that folder and enter insta.py Alternatively, you can rename the file and run it...
 
 # dont forgot to replace email,username etc in file... 
