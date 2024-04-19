@@ -4,7 +4,7 @@ To start, download the latest version of Chrome Driver from https://chromedriver
 
 # dont forgot to replace email,username etc in file... 
 
-👉Note:-
+👉 Note: Every time Instagram updates the code, it varies. So, open the YouTube video, press 'Ctrl+Shift+C' to open the developer tools, and inspect and update it..
 
 👉if your selenium version is in latest version then the code never run
 
